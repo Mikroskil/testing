@@ -1,3 +1,5 @@
-hello world 12345
-hello surabaya
-helo bandung
+<<<<<<< HEAD
+hello world
+hello surabaya 2
+helo
+>>>>>>> 903c5d6739a5bdc5e2ba1176884b928136c2c8fd
