@@ -2,6 +2,11 @@
 <head>
 </head>
 <body>
-Hello bandung sekali. Ini adalah versi terbaru
+<<<<<<< HEAD
+Hello bandung sekali.
+Helllloooo
+=======
+Hello bandung sekali. 
+>>>>>>> 40a437763a08b0c32c160ea4e1f72c8ec426fb02
 </body>
 </html>
